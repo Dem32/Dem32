@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Damiano <img height="50" width="50" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Computer+Science+Enthusiast;Machine+Learning+Explorer;Spring+Boot+Developer;Full-Stack+Collaborator;Passionate+About+Sports+%26+Traveling" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Machine+Learning+Explorer;Aspiring+Software+Developer;Passionate+About+Coding+%26+Technology;Lifelong+Learner" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -12,11 +12,12 @@
 
 ### About Me
 
-- 👀 I’m interested in exploring all branches of **Computer Science**.
-- 🌱 Currently diving deep into **Machine Learning** and **Spring Boot**.
-- 👯 Looking to collaborate on **Front-end and Back-end** projects.
+- 👨‍🎓 I'm a **Computer Science student** passionate about technology and innovation.
+- 🌱 Currently diving into **Machine Learning** and **Spring Boot**.
+- 🛠️ I love building projects that bridge theory and real-world applications.
+- 💡 Always open to learning new things and collaborating on exciting projects.
 - 📫 Reach me at: [damianoficara@gmail.com](mailto:damianoficara@gmail.com)
-- ⚡ Fun Fact: I enjoy **sports**, **reading**, and **traveling**.
+- ⚡ Fun Fact: When I’m not coding, I enjoy **sports**, **reading**, and **exploring new places**.
 
 ---
 
