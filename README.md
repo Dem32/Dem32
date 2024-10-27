@@ -1,6 +1,43 @@
 <div align="center">
   
-![Header](YOUR_HEADER_IMAGE_URL)
+<svg viewBox="0 0 800 140" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="140" fill="#0d1117"/>
+  
+  <!-- Animated gradient -->
+  <defs>
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#4158D0;">
+        <animate attributeName="stop-color" 
+          values="#4158D0;#C850C0;#FFCC70;#4158D0"
+          dur="4s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" style="stop-color:#C850C0;">
+        <animate attributeName="stop-color"
+          values="#C850C0;#FFCC70;#4158D0;#C850C0"
+          dur="4s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+
+  <!-- Main text -->
+  <text x="400" y="70" font-family="Arial, sans-serif" font-size="40" font-weight="bold" fill="url(#gradient)" text-anchor="middle">
+    Damiano Ficara
+  </text>
+  
+  <!-- Subtitle -->
+  <text x="400" y="100" font-family="Arial, sans-serif" font-size="20" fill="#8b949e" text-anchor="middle">
+    Crafting Code • Exploring AI • Building the Future
+  </text>
+
+  <!-- Decorative elements -->
+  <circle cx="150" cy="70" r="3" fill="url(#gradient)">
+    <animate attributeName="r" values="3;5;3" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="650" cy="70" r="3" fill="url(#gradient)">
+    <animate attributeName="r" values="3;5;3" dur="2s" repeatCount="indefinite"/>
+  </circle>
+</svg>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=4000&pause=1000&color=4158D0&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Machine+Learning+Explorer;Problem+Solver;Innovation+Enthusiast)](https://git.io/typing-svg)
 
