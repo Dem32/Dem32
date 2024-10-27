@@ -1,120 +1,94 @@
-<h1 align="center">Hi 👋, I'm Damiano <img height="50" width="50" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<div align="center">
+  
+![Header](YOUR_HEADER_IMAGE_URL)
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Machine+Learning+Explorer;Aspiring+Software+Developer;Passionate+About+Coding+%26+Technology;Lifelong+Learner" alt="Typing SVG" />
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=4000&pause=1000&color=4158D0&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Machine+Learning+Explorer;Problem+Solver;Innovation+Enthusiast)](https://git.io/typing-svg)
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" width="600"/>
-</p>
+</div>
 
----
+## 🚀 About Me
 
-### About Me
+> *"The only way to do great work is to love what you do"* - Steve Jobs
 
-- 👨‍🎓 I'm a **Computer Science student** passionate about technology and innovation.
-- 🌱 Currently diving into **Machine Learning** and **Spring Boot**.
-- 🛠️ I love building projects that bridge theory and real-world applications.
-- 💡 Always open to learning new things and collaborating on exciting projects.
-- 📫 Reach me at: [damianoficara@gmail.com](mailto:damianoficara@gmail.com)
-- ⚡ Fun Fact: When I’m not coding, I enjoy **sports**, **reading**, and **exploring new places**.
+I'm a Computer Science student with a passion for pushing the boundaries of what's possible through code. My journey in tech is driven by curiosity and a desire to create meaningful solutions.
 
----
+### 🎯 Current Focus
+- Building AI/ML projects that solve real-world problems
+- Exploring the intersection of technology and innovation
+- Contributing to open-source projects
+- Learning Spring Boot and advanced software architecture
 
-<h3 align="center">🚀 Connect with me:</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/damiano-ficara-5ba1351b2/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:damianoficara@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</p>
+### 💻 Tech Arsenal
 
----
+```python
+class DamianoFicara:
+    def __init__(self):
+        self.languages = ["Python", "Rust", "Java", "C++", "Kotlin"]
+        self.interests = ["Machine Learning", "Software Architecture", "Open Source"]
+        self.currently_learning = "Spring Boot"
+        self.looking_to_collaborate = True
+    
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing together.")
+```
 
-<h3 align="center">🛠 Languages and Tools:</h3>
-<p align="center"> 
-  <a href="https://www.python.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.linux.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> 
-  </a>
-  <a href="https://www.rust-lang.org/" target="_blank"> 
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="Rust" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/> 
-  </a>
-  <a href="https://reactjs.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
-  </a>
-  <a href="https://www.java.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
-  </a>
-  <a href="https://kotlinlang.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/> 
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
-  </a>
-</p>
+<div align="center">
+
+| 🔭 Domain | 💡 Technologies |
+|-----------|----------------|
+| Frontend | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) |
+| Backend | ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white) |
+| Tools & Platforms | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) |
+
+</div>
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dami013&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4158D0&icon_color=C850C0)](https://github.com/dami013)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dami013&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4158D0)](https://github.com/dami013)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dami013&theme=tokyonight&hide_border=true&background=0d1117&stroke=4158D0&ring=C850C0&fire=FFCC70)](https://github.com/dami013)
+
+</div>
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/damiano-ficara-5ba1351b2/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:damianoficara@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dami013)
+
+</div>
 
 ---
 
-<h3 align="center">📊 GitHub Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dami013&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dami013&theme=radical" alt="GitHub Streak" />
-</p>
+### 🎯 Weekly Coding Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dami013&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+```text
+Python      █████████░░   45%
+Rust        ████████░░░   40%
+Java        ██████░░░░░   30%
+Other       ████░░░░░░░   20%
+```
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=dami013&theme=radical" alt="GitHub Activity Graph" />
-</p>
+### 📚 Currently Reading
+- "Clean Architecture" by Robert C. Martin
+- "Deep Learning with Python" by François Chollet
 
----
-
-<h3 align="center">🏆 GitHub Trophies:</h3>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dami013&theme=radical&no-bg=true&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</p>
+</div>
 
 ---
 
-<h3 align="center">💬 Quote of the Day:</h3>
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote of the Day" />
-</p>
+<div align="center">
+  
+**"Code is like humor. When you have to explain it, it's bad."** – Cory House
 
----
+*[Last Updated: October 2024]*
 
-<h3 align="center">🎨 Fun with GitHub Badges:</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg" alt="Markdown badge" />
-  <img src="https://img.shields.io/badge/Code%20with-Passion-red.svg" alt="Passion badge" />
-  <img src="https://img.shields.io/badge/Open%20to-Collaborations-green.svg" alt="Collaboration badge" />
-</p>
-
----
-
-<!--
-**dami013/dami013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
--->
+</div>
