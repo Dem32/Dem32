@@ -104,25 +104,6 @@ class DamianoFicara:
 ---
 
 <div align="center">
-
-### 🎯 Weekly Coding Stats
-
-```text
-Python      █████████░░   45%
-Rust        ████████░░░   40%
-Java        ██████░░░░░   30%
-Other       ████░░░░░░░   20%
-```
-
-### 📚 Currently Reading
-- "Clean Architecture" by Robert C. Martin
-- "Deep Learning with Python" by François Chollet
-
-</div>
-
----
-
-<div align="center">
   
 **"Code is like humor. When you have to explain it, it's bad."** – Cory House
 
