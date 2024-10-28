@@ -53,16 +53,16 @@ I'm a Computer Science student with a passion for pushing the boundaries of what
 - Building AI/ML projects that solve real-world problems
 - Exploring the intersection of technology and innovation
 - Contributing to open-source projects
-- Learning Spring Boot and advanced software architecture
+- Learning Deep Learning, Machine Learning , IoT
 
 ### 💻 Tech Arsenal
 
 ```python
 class DamianoFicara:
     def __init__(self):
-        self.languages = ["Python", "Rust", "Java", "C++", "Kotlin"]
+        self.languages = ["Python", "Rust", "Java", "C++", "Kotlin","C"]
         self.interests = ["Machine Learning", "Software Architecture", "Open Source"]
-        self.currently_learning = "Spring Boot"
+        self.currently_learning = "Deep Learning and IoT"
         self.looking_to_collaborate = True
     
     def say_hi(self):
